@@ -4,7 +4,7 @@
 #include <cmath>
 #include <cstring>
 #include "bullsandcows.h"
-
+//Този файл липсва в директорията
 using namespace std;
 
 BullsAndCows::BullsAndCows(int size)
